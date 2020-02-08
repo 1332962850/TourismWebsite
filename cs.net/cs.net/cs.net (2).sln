@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "cs.net", "..\", "{454B35B8-8550-4F4B-98FE-6D11D7E77CEA}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/cs.net"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\Desktop\cs.net\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\cs.net\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/cs.net"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\Desktop\cs.net\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\cs.net\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "24282"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{454B35B8-8550-4F4B-98FE-6D11D7E77CEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{454B35B8-8550-4F4B-98FE-6D11D7E77CEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

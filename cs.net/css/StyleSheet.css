@@ -1,0 +1,181 @@
+﻿body
+{
+      
+} 
+
+/*---------普通用户登录注册---------------*/
+.bgreg
+{
+    width: 500px;
+    height: 240px;
+    margin: 50px auto auto;
+    padding-top: 40px;
+    font-size: 12px;
+    font-family: 黑体;
+    color: #FFFFFF;
+    overflow: inherit;
+    background-image: url('../images/price.jpg');
+}
+
+.line
+{
+    clear: both;
+    width: 440px;
+    padding-left:60px;
+    
+    
+    
+}
+.linefont
+{
+    width: 70px;
+    float: left;
+    line-height: 30px;
+    text-align: right;
+    padding-right: 5px;
+    display: inline-block;
+}
+.linetxtbox
+{
+    line-height: 30px;
+    float: left;
+    width: 120px;
+   
+}
+
+.linebtn
+{
+    clear:both;
+    line-height:50px;
+    height: 50px;
+     width:300px;
+     margin:auto;
+ }
+ .linevalidate
+{
+    line-height: 30px;
+    float: left;
+    padding-left: 6px;
+    width:230px;
+   
+}
+
+.linefont div,.linetxtbox div,.linevalidate div{ line-height: 30px;height:30px;padding-left:10px;}
+.summary{width:400px;margin:auto; font-size: 14px; font-family: 黑体}
+
+.btn
+{
+    background-image: url('../images/btn.gif');
+    font-family: 黑体;
+    color: #000080;
+    font-size: 12px;
+    background-repeat: no-repeat;
+    text-align: center;
+    width:60px;
+    margin-right:40px;
+    
+   
+}
+
+/*---------管理员登录注册---------------*/
+
+
+.failureNotification
+{
+    font-size: 1.2em;
+    color: Red;
+}
+
+.bold
+{
+    font-weight: bold;
+}
+
+.submitButton
+{
+    text-align: right;
+    padding-right: 10px;
+    padding-left :10px;
+}
+
+
+fieldset
+{
+    margin: 1em 0px;
+    padding: 1em;
+    border: 1px solid #ccc;
+}
+
+fieldset p 
+{
+    margin: 2px 12px 10px 10px;
+}
+
+fieldset.login label, fieldset.register label, fieldset.changePassword label
+{
+    display: block;
+}
+
+fieldset label.inline 
+{
+    display: inline;
+}
+
+legend 
+{
+    font-size: 1.3em;
+    font-weight:600;
+    padding: 2px 4px 8px 4px;
+}
+input.textEntry 
+{
+    width: 280px;
+    border: 1px solid #ccc;
+}
+
+input.passwordEntry 
+{
+    width: 280px;
+    border: 1px solid #ccc;
+}
+
+div.accountInfo
+{
+    width: 350px;
+}
+
+a:link, a:visited
+{
+    color: #034af3;
+}
+
+a:hover
+{
+    color: #1d60ff;
+    text-decoration: none;
+}
+
+a:active
+{
+    color: #034af3;
+}
+
+p
+{
+    margin-bottom: 10px;
+    line-height: 26px;
+     font-size: 1.3em;
+   
+}
+h2
+{
+    font-size: 1.6em;
+    font-weight: 600;
+     color: #666666;
+     margin-top :20px;
+     margin-bottom:10px;
+}
+
+/************登录注册按钮**********************/
+
+
